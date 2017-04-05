@@ -1,4 +1,4 @@
-##exports 和 module.exports 区别
+## exports 和 module.exports 区别
 
 - require 返回的是 module.exports 这个对象
 - exports 指向 module.exports 的 引用
